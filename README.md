@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargabrielaguilar&label=Profile%20View&color=c64e39&style=flat" alt="omargabrielaguilar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omargabrielaguilar" alt="omargabrielaguilar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/biignoisee" target="blank"><img src="https://img.shields.io/twitter/follow/biignoisee?logo=twitter&style=for-the-badge" alt="biignoisee" /></a> </p>
 
 - 🌱 I’m learning **SpringBoot, TypeScript**

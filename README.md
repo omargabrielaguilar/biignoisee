@@ -1,4 +1,3 @@
-<h1 align="center" style="color:red;">Omar Gabriel </h1>
 <h3 align="center">I'm a passionate software engineer focused on building baas and saas solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omargabrielaguilar&label=Profile%20View&color=c64e39&style=flat" alt="omargabrielaguilar" /> </p>

@@ -22,7 +22,7 @@
 
 **Projects - Profile**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omargabrielaguilar&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="omargabrielaguilar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omargabrielaguilar&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="omargabrielaguilar" /></p>
 
 <p>&nbsp;<img align="left" style="margin-top:1rem;" src="https://github-readme-stats.vercel.app/api?username=omargabrielaguilar&show_icons=true&theme=highcontrast&locale=en" alt="omargabrielaguilar" /></p>
 
